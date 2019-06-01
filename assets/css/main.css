@@ -6,4 +6,292 @@
 @import url('components/flex-grid.css');
 @import url('components/buttons.css');
 @import url('components/forms.css');
-
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: Eindwerk;
+}
+#Eindwerk * {
+	margin: 0;
+	padding: 0;
+}
+#Eindwerk {
+	position: absolute;
+	box-sizing: border-box;
+	transform: translateX(-50%) translateY(-50%);
+	left: 50%;
+	top: 50%;
+	background: #E5E5E5;
+	width: 1366px;
+	height: 768px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	opacity: 1;
+	--web-view-name: Eindwerk;
+	--web-view-id: Eindwerk;
+	--web-scale-to-fit: true;
+	--web-enable-deep-linking: true;
+}
+#AdobeStock_141229583 {
+	opacity: 1;
+	fill: url(#AdobeStock_141229583_A0_Rectangle_2_pattern);
+}
+.AdobeStock_141229583 {
+	position: absolute;
+	overflow: visible;
+	width: 1426px;
+	height: 713px;
+	left: -36px;
+	top: 55px;
+}
+#page1 {
+	opacity: 1;
+	position: absolute;
+	width: 1366px;
+	height: 755.46px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Header {
+	opacity: 1;
+	position: absolute;
+	width: 1366px;
+	height: 110px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	opacity: 1;
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 110px;
+	left: 0px;
+	top: 0px;
+}
+#Header_text {
+	opacity: 1;
+	position: absolute;
+	width: 210px;
+	height: 48px;
+	left: 592px;
+	top: 31px;
+	overflow: visible;
+}
+#New_Era_Food {
+	opacity: 1;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 211px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Vevey;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 2.99px;
+}
+#SINCE_20XX {
+	opacity: 1;
+	position: absolute;
+	left: 62px;
+	top: 33px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 87px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Coves;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(203,72,85,1);
+	letter-spacing: 0.8px;
+}
+#arrows {
+	opacity: 1;
+	position: absolute;
+	width: 1282.72px;
+	height: 397.58px;
+	left: 40.426px;
+	top: 357.88px;
+	overflow: visible;
+}
+#Path_1 {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(255, 255, 255);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 1257px;
+	width: 28.135px;
+	height: 53.441px;
+}
+#Path_2 {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(255, 255, 255);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	transform: rotate(180deg);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 28.135px;
+	height: 53.441px;
+}
+#Path_3 {
+	opacity: 1;
+	fill: transparent;
+	stroke: rgb(255, 255, 255);
+	stroke-width: 2px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3 {
+	transform: rotate(90deg);
+	overflow: visible;
+	position: absolute;
+	top: 383.863px;
+	left: 629.14px;
+	width: 29.434px;
+	height: 16.131px;
+}
+#DOTS {
+	opacity: 1;
+	position: absolute;
+	width: 50px;
+	height: 10px;
+	left: 1276px;
+	top: 732px;
+	overflow: visible;
+}
+#Ellipse_1 {
+	opacity: 1;
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 0px;
+	top: 0px;
+}
+#Ellipse_2 {
+	opacity: 0.5;
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 20px;
+	top: 0px;
+}
+#Ellipse_3 {
+	opacity: 0.5;
+	fill: rgba(255,255,255,1);
+}
+.Ellipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 10px;
+	height: 10px;
+	left: 40px;
+	top: 0px;
+}
+#Reserve_now_button {
+	opacity: 1;
+	position: absolute;
+	width: 316px;
+	height: 54px;
+	left: 525px;
+	top: 559px;
+	overflow: visible;
+}
+#Rectangle_2 {
+	opacity: 1;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 316px;
+	height: 54px;
+	left: 0px;
+	top: 0px;
+}
+#Reserve_now__ {
+	opacity: 1;
+	position: absolute;
+	left: 66px;
+	top: 10px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 186px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Vevey;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 2.09px;
+}
+#About_us___contact {
+	opacity: 1;
+	position: absolute;
+	left: 1146px;
+	top: 47px;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: visible;
+	width: 161px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Coves;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 1.88px;
+}
